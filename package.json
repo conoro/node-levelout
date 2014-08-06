@@ -1,7 +1,7 @@
 {
-  "name": "levelup",
+  "name": "levelout",
   "description": "Fast & simple storage - a Node.js-style LevelDB wrapper",
-  "version": "0.18.5",
+  "version": "1.0.0",
   "contributors": [
     "Rod Vagg <r@va.gg> (https://github.com/rvagg)",
     "John Chesley <john@chesl.es> (https://github.com/chesles/)",
@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/node-levelup.git"
+    "url": "https://github.com/fritzy/node-levelout.git"
   },
-  "homepage": "https://github.com/rvagg/node-levelup",
+  "homepage": "https://github.com/fritzy/node-levelout",
   "keywords": [
     "leveldb",
     "stream",
