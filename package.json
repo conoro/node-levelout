@@ -34,7 +34,7 @@
   "main": "lib/levelup.js",
   "dependencies": {
     "bl": "~0.8.1",
-    "deferred-leveldown": "~0.2.0",
+    "deferred-leveldown": "*",
     "errno": "~0.1.1",
     "prr": "~0.0.0",
     "readable-stream": "~1.0.26",
@@ -42,7 +42,7 @@
     "xtend": "~3.0.0"
   },
   "devDependencies": {
-    "leveldown": "~0.10.0",
+    "leveldown": "*",
     "bustermove": "*",
     "tap": "*",
     "referee": "*",
